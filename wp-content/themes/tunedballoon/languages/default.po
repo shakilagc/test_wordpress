@@ -1,0 +1,568 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tuned Balloon\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-20 16:41+0100\n"
+"PO-Revision-Date: 2013-08-20 16:41+0100\n"
+"Last-Translator: Ana <redroses7@gmail.com>\n"
+"Language-Team: Anariel Design\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;_e;__\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../intune/404.php:8
+msgid "Not Found"
+msgstr ""
+
+#: ../intune/404.php:15
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr ""
+
+#: ../intune/archive.php:9
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#: ../intune/archive.php:11
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#: ../intune/archive.php:13
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#: ../intune/archive.php:15
+msgid "Blog Archives"
+msgstr ""
+
+#: ../intune/archive.php:31
+#: ../intune/category-media.php:13
+#: ../intune/category.php:12
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../intune/archive.php:34
+#: ../intune/category-media.php:16
+#: ../intune/category.php:15
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../intune/comments.php:4
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../intune/comments.php:27
+msgid "Leave a reply"
+msgstr ""
+
+#: ../intune/comments.php:35
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../intune/comments.php:38
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../intune/comments.php:53
+msgid "Comments are closed."
+msgstr ""
+
+#: ../intune/comments.php:60
+msgid "<p class=\"comment-notes\">Required fields are marked <span class=\"required\">*</span>.</p>"
+msgstr ""
+
+#: ../intune/content-aside.php:3
+#: ../intune/content-audio.php:5
+msgid "Continue reading"
+msgstr ""
+
+#: ../intune/content-aside.php:4
+#: ../intune/content-audio.php:6
+#: ../intune/content-gallery.php:11
+#: ../intune/content-image.php:37
+#: ../intune/content-page.php:5
+#: ../intune/content-quote.php:4
+#: ../intune/content-search.php:23
+#: ../intune/content-single.php:33
+msgid "Pages:"
+msgstr ""
+
+#: ../intune/content-gallery.php:10
+#: ../intune/content-home.php:3
+#: ../intune/content-link.php:3
+#: ../intune/content-page.php:3
+#: ../intune/content-quote.php:3
+#: ../intune/content-search.php:22
+#: ../intune/content-single.php:31
+msgid "Continue Reading"
+msgstr ""
+
+#: ../intune/content-gallery.php:15
+#: ../intune/content-search.php:28
+#: ../intune/content-single.php:38
+#, php-format
+msgid "Categories: %2$s"
+msgstr ""
+
+#: ../intune/content-gallery.php:19
+#: ../intune/content-search.php:32
+#: ../intune/content-single.php:42
+#, php-format
+msgid "Tags: %2$s"
+msgstr ""
+
+#: ../intune/content-gallery.php:22
+#: ../intune/content-search.php:35
+#: ../intune/content-single.php:45
+msgid "Permalink "
+msgstr ""
+
+#: ../intune/content-gallery.php:24
+#: ../intune/content-page.php:6
+#: ../intune/content-search.php:37
+#: ../intune/content-single.php:47
+msgid "Edit"
+msgstr ""
+
+#: ../intune/content-image.php:14
+#: ../intune/content-image.php:19
+#: ../intune/content-image.php:32
+msgid "More"
+msgstr ""
+
+#: ../intune/content-single.php:21
+msgid "0 comments"
+msgstr ""
+
+#: ../intune/content-single.php:21
+msgid "1 Comment"
+msgstr ""
+
+#: ../intune/content-single.php:21
+msgid "% Comments"
+msgstr ""
+
+#: ../intune/content-single.php:55
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: ../intune/content-video.php:30
+msgid "Edit;"
+msgstr ""
+
+#: ../intune/functions.php:84
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../intune/functions.php:115
+msgid "Navigation Menu"
+msgstr ""
+
+#: ../intune/functions.php:149
+msgid "Header Image"
+msgstr ""
+
+#: ../intune/functions.php:155
+msgid "Header Image One"
+msgstr ""
+
+#: ../intune/functions.php:161
+msgid "Header Image Two"
+msgstr ""
+
+#: ../intune/functions.php:167
+msgid "Header Image Three"
+msgstr ""
+
+#: ../intune/functions.php:173
+msgid "Header Image 4"
+msgstr ""
+
+#: ../intune/functions.php:179
+msgid "Header Image Five"
+msgstr ""
+
+#: ../intune/functions.php:279
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../intune/functions.php:283
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../intune/functions.php:293
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../intune/functions.php:314
+msgid "Pingback:"
+msgstr ""
+
+#: ../intune/functions.php:316
+msgid "(Edit)"
+msgstr ""
+
+#: ../intune/functions.php:329
+msgid "Home - Top Image"
+msgstr ""
+
+#: ../intune/functions.php:331
+msgid "We used this sidebar for top image"
+msgstr ""
+
+#: ../intune/functions.php:338
+msgid "Home - Latest News Block"
+msgstr ""
+
+#: ../intune/functions.php:340
+msgid "We used this sidebar for latest news - install Recent Post Widget Extended: http://wordpress.org/plugins/recent-posts-widget-extended/"
+msgstr ""
+
+#: ../intune/functions.php:347
+msgid "Home - Audio Player"
+msgstr ""
+
+#: ../intune/functions.php:349
+msgid "We used this sidebar for audio player. Note: because of the design you can use max 7 songs - widget \"Anariel Player\""
+msgstr ""
+
+#: ../intune/functions.php:356
+msgid "Home - Short Band Bio"
+msgstr ""
+
+#: ../intune/functions.php:358
+msgid "We used this sidebar for band bio text widget. "
+msgstr ""
+
+#: ../intune/functions.php:365
+msgid "Home - Shows, Photos and Videos"
+msgstr ""
+
+#: ../intune/functions.php:367
+msgid "We used this sidebar for upcoming shows - install GigPress plugin: http://wordpress.org/plugins/gigpress/. For photos and videos slider - install Soliloquy slider from plugins folder"
+msgstr ""
+
+#: ../intune/functions.php:374
+msgid "Home V. One - Record Image Link"
+msgstr ""
+
+#: ../intune/functions.php:376
+msgid "We used this sidebar for record image and button that you can link to the page you want"
+msgstr ""
+
+#: ../intune/functions.php:383
+msgid "Home V. Two and Three-Soundcloud"
+msgstr ""
+
+#: ../intune/functions.php:385
+msgid "We used this sidebar for soundcloud iframe"
+msgstr ""
+
+#: ../intune/functions.php:392
+msgid "Footer Socials Widget:"
+msgstr ""
+
+#: ../intune/functions.php:394
+msgid "We used this sidebar for socials"
+msgstr ""
+
+#: ../intune/functions.php:401
+msgid "News Page - Right Sidebar"
+msgstr ""
+
+#: ../intune/functions.php:437
+msgid "Search"
+msgstr ""
+
+#: ../intune/functions.php:467
+#: ../intune/functions.php:473
+msgid "Logo"
+msgstr ""
+
+#: ../intune/functions.php:487
+msgid "Change color of the elements with color value #cd736b"
+msgstr ""
+
+#: ../intune/functions.php:520
+msgid "Change color of the elements with color value #133332"
+msgstr ""
+
+#: ../intune/header-custom.php:34
+#: ../intune/header.php:34
+msgid "Menu"
+msgstr ""
+
+#: ../intune/image.php:12
+msgid "by"
+msgstr ""
+
+#: ../intune/image.php:24
+msgid "&larr; Previous Image"
+msgstr ""
+
+#: ../intune/image.php:26
+msgid "Next Image &rarr;"
+msgstr ""
+
+#: ../intune/image.php:81
+#, php-format
+msgid "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: ../intune/image.php:83
+#, php-format
+msgid "Comments are closed, but you can leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: ../intune/image.php:85
+msgid "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#: ../intune/image.php:87
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: ../intune/image.php:89
+msgid "Edit &rarr;"
+msgstr ""
+
+#: ../intune/search.php:7
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../intune/search.php:33
+msgid "Nothing Found"
+msgstr ""
+
+#: ../intune/search.php:38
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#: ../intune/single.php:11
+msgid "&larr;  Previous Post"
+msgstr ""
+
+#: ../intune/single.php:14
+msgid "Next Post &rarr;"
+msgstr ""
+
+#: ../intune/widgets/homebio.php:31
+msgid "Home Widget - Home Bio"
+msgstr ""
+
+#: ../intune/widgets/homebio.php:37
+msgid "Anariel Home Bio Widget"
+msgstr ""
+
+#: ../intune/widgets/homebio.php:102
+#: ../intune/widgets/hometopimage.php:95
+#: ../intune/widgets/player.php:155
+msgid "Title:"
+msgstr ""
+
+#: ../intune/widgets/homebio.php:110
+msgid "Bio Image URL:"
+msgstr ""
+
+#: ../intune/widgets/homebio.php:119
+msgid "Bio Image Title:"
+msgstr ""
+
+#: ../intune/widgets/homebio.php:126
+msgid "Text Part:"
+msgstr ""
+
+#: ../intune/widgets/homebio.php:132
+msgid "Find our more link url:"
+msgstr ""
+
+#: ../intune/widgets/homebio.php:139
+msgid "Find out more link text:"
+msgstr ""
+
+#: ../intune/widgets/hometopimage.php:31
+msgid "Home Widget - Top Image - upload your top image"
+msgstr ""
+
+#: ../intune/widgets/hometopimage.php:37
+msgid "Anariel Home Top Image"
+msgstr ""
+
+#: ../intune/widgets/hometopimage.php:103
+msgid "Home Top Image URL:"
+msgstr ""
+
+#: ../intune/widgets/hometopimage.php:112
+msgid "Home Top Image Title:"
+msgstr ""
+
+#: ../intune/widgets/player.php:31
+msgid "Home Widget - Player - 7 song player"
+msgstr ""
+
+#: ../intune/widgets/player.php:37
+msgid "Anariel Player Widget"
+msgstr ""
+
+#: ../intune/widgets/player.php:163
+msgid "Record Image URL:"
+msgstr ""
+
+#: ../intune/widgets/player.php:172
+msgid "Record Image Title:"
+msgstr ""
+
+#: ../intune/widgets/player.php:179
+msgid "First Song Link URL:"
+msgstr ""
+
+#: ../intune/widgets/player.php:185
+msgid "First Song Link Text:"
+msgstr ""
+
+#: ../intune/widgets/player.php:192
+msgid "Second Song Link URL:"
+msgstr ""
+
+#: ../intune/widgets/player.php:198
+msgid "Second Song Link Text:"
+msgstr ""
+
+#: ../intune/widgets/player.php:205
+msgid "Third Song Link URL:"
+msgstr ""
+
+#: ../intune/widgets/player.php:211
+msgid "Third Song Link Text:"
+msgstr ""
+
+#: ../intune/widgets/player.php:218
+msgid "Fourth Song Link URL:"
+msgstr ""
+
+#: ../intune/widgets/player.php:224
+msgid "Fourth Song Link Text:"
+msgstr ""
+
+#: ../intune/widgets/player.php:231
+msgid "Fifth Song Link URL:"
+msgstr ""
+
+#: ../intune/widgets/player.php:237
+msgid "Fifth Song Link Text:"
+msgstr ""
+
+#: ../intune/widgets/player.php:244
+msgid "Sexth Song Link URL:"
+msgstr ""
+
+#: ../intune/widgets/player.php:250
+msgid "Sexth Song Link Text:"
+msgstr ""
+
+#: ../intune/widgets/player.php:257
+msgid "Seventh Song Link URL:"
+msgstr ""
+
+#: ../intune/widgets/player.php:263
+msgid "Seventh Song Link Text:"
+msgstr ""
+
+#: ../intune/widgets/player.php:270
+msgid "Text box under player - first part:"
+msgstr ""
+
+#: ../intune/widgets/player.php:276
+msgid "Text box under player - second part:"
+msgstr ""
+
+#: ../intune/widgets/recordlink.php:31
+msgid "Home Widget - Record Link - instead of player add button link to the page where your songs are listed"
+msgstr ""
+
+#: ../intune/widgets/recordlink.php:37
+msgid "Anariel Record Image with Button Widget"
+msgstr ""
+
+#: ../intune/widgets/recordlink.php:128
+msgid "Button Link URL:"
+msgstr ""
+
+#: ../intune/widgets/socials.php:31
+msgid "Home Widget - Socials - 5 social icons"
+msgstr ""
+
+#: ../intune/widgets/socials.php:37
+msgid "Anariel Footer Socials Widget"
+msgstr ""
+
+#: ../intune/widgets/socials.php:145
+msgid "Facebook link URL:"
+msgstr ""
+
+#: ../intune/widgets/socials.php:151
+msgid "Facebook Image URL:"
+msgstr ""
+
+#: ../intune/widgets/socials.php:157
+msgid "Facebook Image Title:"
+msgstr ""
+
+#: ../intune/widgets/socials.php:165
+msgid "Twitter link URL:"
+msgstr ""
+
+#: ../intune/widgets/socials.php:171
+msgid "Twitter Image URL:"
+msgstr ""
+
+#: ../intune/widgets/socials.php:177
+msgid "Twitter Image Title:"
+msgstr ""
+
+#: ../intune/widgets/socials.php:185
+msgid "Google link URL:"
+msgstr ""
+
+#: ../intune/widgets/socials.php:191
+msgid "Google Image URL:"
+msgstr ""
+
+#: ../intune/widgets/socials.php:197
+msgid "Google Image Title:"
+msgstr ""
+
+#: ../intune/widgets/socials.php:205
+msgid "YouTube link URL:"
+msgstr ""
+
+#: ../intune/widgets/socials.php:211
+msgid "YouTube Image URL:"
+msgstr ""
+
+#: ../intune/widgets/socials.php:217
+msgid "YouTube Image Title:"
+msgstr ""
+
+#: ../intune/widgets/socials.php:225
+msgid "Instagram link URL:"
+msgstr ""
+
+#: ../intune/widgets/socials.php:231
+msgid "Instagram Image URL:"
+msgstr ""
+
+#: ../intune/widgets/socials.php:237
+msgid "Instagram Image Title:"
+msgstr ""
+
