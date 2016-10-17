@@ -12,7 +12,6 @@
  * @var bool
  */
 define('WP_USE_THEMES', true);
-echo 'kamil';
-echo 'lucky';
+echo 'testing';
 /** Loads the WordPress Environment and Template */
 require( dirname( __FILE__ ) . '/wp-blog-header.php' );
